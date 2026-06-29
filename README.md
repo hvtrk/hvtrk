@@ -1,26 +1,32 @@
 # Rahul Kumar
 
-### Backend Engineer focused on scalable systems, AI infrastructure, and developer tooling.
+### Backend Engineer building scalable systems and AI-powered developer tooling.
 
-I'm a Backend Engineer with nearly **8 years of experience** building scalable backend systems, cloud-native applications, and data-intensive platforms. While my background includes full-stack development, my primary focus is backend engineering, system design, and designing software that scales.
-
-My current interests are AI infrastructure, local LLMs, and developer tooling, where I combine strong software engineering principles with modern AI workflows.
+I'm a Backend Engineer with nearly **8 years of experience** building scalable backend systems, cloud-native applications, and data-intensive platforms. My current interests lie in **AI Infrastructure**, **Local LLMs**, and **Developer Tooling**, where I combine strong software engineering principles with modern AI workflows.
 
 ---
 
 ## 🚀 Current Focus
 
-* Building scalable backend systems with Python and FastAPI
-* Exploring AI infrastructure, local LLMs, MCP, and agentic workflows
-* Designing maintainable APIs and data-intensive architectures
-* Writing about backend engineering and software architecture
-* Contributing to open-source developer tooling
+* AI Infrastructure & Local LLMs
+* Backend Architecture & System Design
+* High-Performance APIs with FastAPI
+* Developer Tooling & Automation
+* Technical Writing & Open Source
+
+---
+
+## 🛠 Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,react,nextjs,postgres,redis,docker,aws,git,linux" />
+</p>
 
 ---
 
 ## 🌱 Open Source
 
-Maintainer of **AI Skill Rules** — a collection of reusable rules and guidance for AI-assisted software engineering.
+**AI Skill Rules** — Reusable engineering rules and guidelines for AI-assisted software development.
 
 🔗 https://github.com/hvtrk/ai-skill-rules
 
@@ -30,14 +36,21 @@ Maintainer of **AI Skill Rules** — a collection of reusable rules and guidance
 
 I write about backend engineering, software architecture, AI infrastructure, and lessons learned while building production systems.
 
-📖 Blog: https://rahulweb.co.in/blog
+📖 **Blog:** https://rahulweb.co.in/blog
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-🌐 Portfolio: https://rahulweb.co.in
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hvtrk&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtrk&layout=compact&hide_border=true" />
+</p>
 
-💼 LinkedIn: https://linkedin.com/in/rahulkumar1995
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hvtrk&hide_border=true" />
+</p>
 
-📧 Email: **[rahul@rahulweb.co.in](mailto:rahul@rahulweb.co.in)** *(coming soon)*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvtrk&hide_border=true&area=true" />
+</p>
