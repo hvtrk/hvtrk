@@ -1,42 +1,20 @@
 # Rahul Kumar
 
-### Backend Engineer • AI Infrastructure • System Design
+### Backend Engineer focused on scalable systems, AI infrastructure, and developer tooling.
 
-I’m a Backend Engineer with nearly **8 years of experience** designing scalable backend systems, data-intensive applications, and cloud-native services. While my background includes full-stack development, my primary focus is backend engineering, system design, and building the foundations for AI-powered applications.
+I'm a Backend Engineer with nearly **8 years of experience** building scalable backend systems, cloud-native applications, and data-intensive platforms. While my background includes full-stack development, my primary focus is backend engineering, system design, and designing software that scales.
 
-I'm currently transitioning towards **AI Infrastructure Engineering**, combining strong backend fundamentals with local LLMs, agentic workflows, and developer tooling.
+My current interests are AI infrastructure, local LLMs, and developer tooling, where I combine strong software engineering principles with modern AI workflows.
 
 ---
 
 ## 🚀 Current Focus
 
-* Building AI runtimes and backend infrastructure with FastAPI
-* Designing scalable APIs and data-intensive systems
-* Exploring Local LLMs, MCP, RAG, and Agentic Workflows
-* Writing about backend architecture and AI engineering
-* Contributing to open-source AI tooling
-
----
-
-## 🛠 Core Technologies
-
-**Backend:** Python, FastAPI, Node.js, Express.js
-
-**Frontend:** React, Next.js, TypeScript
-
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
-
-**Cloud & DevOps:** AWS, Docker, GitHub Actions, Jenkins, Linux, Nginx
-
-**AI:** LangChain, OpenAI API, LM Studio, Ollama, Claude Code
-
----
-
-## ✍️ Technical Writing
-
-I regularly write about backend engineering, AI infrastructure, software architecture, and lessons learned while building production systems.
-
-**Blog:** https://rahulweb.co.in/blog
+* Building scalable backend systems with Python and FastAPI
+* Exploring AI infrastructure, local LLMs, MCP, and agentic workflows
+* Designing maintainable APIs and data-intensive architectures
+* Writing about backend engineering and software architecture
+* Contributing to open-source developer tooling
 
 ---
 
@@ -44,20 +22,22 @@ I regularly write about backend engineering, AI infrastructure, software archite
 
 Maintainer of **AI Skill Rules** — a collection of reusable rules and guidance for AI-assisted software engineering.
 
-Repository: https://github.com/hvtrk/ai-skill-rules
+🔗 https://github.com/hvtrk/ai-skill-rules
 
-More open-source projects are planned as my AI Runtime and AI Platform work becomes public.
+---
+
+## ✍️ Technical Writing
+
+I write about backend engineering, software architecture, AI infrastructure, and lessons learned while building production systems.
+
+📖 Blog: https://rahulweb.co.in/blog
 
 ---
 
 ## 📫 Connect
 
-🌐 Portfolio — https://rahulweb.co.in
+🌐 Portfolio: https://rahulweb.co.in
 
-💼 LinkedIn — https://linkedin.com/in/rahulkumar1995
+💼 LinkedIn: https://linkedin.com/in/rahulkumar1995
 
-📧 Email — [rahul@rahulweb.co.in](mailto:rahul@rahulweb.co.in) *(coming soon)*
-
----
-
-> *I enjoy building reliable backend systems, documenting engineering decisions, and creating tools that help developers build better software.*
+📧 Email: **[rahul@rahulweb.co.in](mailto:rahul@rahulweb.co.in)** *(coming soon)*
